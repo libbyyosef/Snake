@@ -3,6 +3,10 @@
 
 This is a simple implementation of the classic Snake game in Python. The game includes a snake, apples, and bombs. The player controls the snake's direction with arrow keys, and the goal is to eat apples while avoiding collisions with the snake itself and bombs.
 
+
+https://github.com/libbyyosef/Snake/assets/36642026/d37e52f7-feee-4d9b-8069-2bf6cfa227cb
+
+
 **Game Controls**
 - Use the arrow keys (Up, Down, Left, Right) to control the snake's direction.
 
